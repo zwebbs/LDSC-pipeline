@@ -5,3 +5,5 @@ env/bin/*
 env/lib/*
 env/lib64
 env/pyvenv.cfg
+env/etc/*
+env/share/*
