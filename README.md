@@ -14,7 +14,7 @@ docker run -itd \
 
 To execute any of the scripts in the ldsc suite, we can simply prepend the `docker exec <container name>` command to the script command. For example, to print the help message: 
 
-```
+```{bash}
 # docker exec <container name> <command>
 docker exec ldsc-docker python ldsc.py --help
 ```
