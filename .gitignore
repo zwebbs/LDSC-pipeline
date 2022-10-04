@@ -1,2 +1,7 @@
 data/ref/*_chr/
 data/ref/*.snplist
+.python-version
+env/bin/*
+env/lib/*
+env/lib64
+env/pyvenv.cfg
